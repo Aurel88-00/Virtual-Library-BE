@@ -6,7 +6,7 @@
 5. The app will be up and running in your local machine.
 
 ## App Overview
-This app can best be described as a samll api that exposes the following endpoints:
+This app can best be described as a small api that exposes the following endpoints:
 - /api/auth/signup- for registring a new user.
 - /api/auth/login- for authenticating an already existing user.
 - /api/auth/me- for getting the current user.
